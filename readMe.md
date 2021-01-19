@@ -6,8 +6,6 @@ population of a certain species.
 # How to Use
 
 - Main Entry is the **main.mlx** file
-- Add solution section **AFTER** the heading _Plot of Analytical Solution_
-- Use header _Estimate #: 'Explicit Method Name'_
 - Read below for **useful functions**
 
 ## Function Definitions
