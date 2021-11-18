@@ -3,7 +3,7 @@
 Examining Ordinary Differential Equation by describing the dynamics of the
 population of a certain species.
 
-Through the Matlab .mlx file, a clear indication of the exact solution and the approximation of different ODE with methods like Euler, Heunn, Runge-Kutta method are demonstrated. <br/>
+Through the Matlab 'main.mlx' file, a clear indication of the exact solution and the approximation of different ODE with methods like Euler, Heunn, Runge-Kutta method are demonstrated. <br/>
 Parameters like Timestep Size, Initial Condition or even different ODEs can be adjusted to look at the different plots produced, and how these affect the different approximation methods. The error for each method and respective time-steps are also calculated.
 
 
